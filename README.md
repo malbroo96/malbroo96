@@ -10,8 +10,7 @@
 ---
 
 ## 🚀 About Me  
-I build clean, modern and meaningful web experiences. I love fast UIs, smooth animations, and solving real problems with code.  
-Focused on **React**, **Node**, **Express**, **MongoDB**, **Tailwind**, and deploying full-stack apps.
+I build clean, modern and meaningful web experiences. I focus on creating fast UIs, smooth user experiences, and solving real-world problems using the MERN stack.
 
 ---
 
@@ -42,33 +41,59 @@ Focused on **React**, **Node**, **Express**, **MongoDB**, **Tailwind**, and depl
 
 ## 📊 GitHub Stats (Animated)
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=malbroo96&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=malbroo96&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malbroo96&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🧩 Featured Projects  
-### 🚀 **To-Do App (Full Stack)**  
-A full CRUD MERN app deployed on Render + Netlify with modern UI and animations.
 
-### 📱 **Habit Flow**  
-A gamified habit-tracking app with fast UI and PWA-ready structure.
+### 🚀 **To-Do App (Full Stack)**  
+A complete MERN CRUD application built with clean UI, smooth interactions, and deployed using Render + Netlify.
 
 ---
 
-## 📫 Connect with Me  
+### 💪 **HabitFlow – Smart Health & Wellness Tracker**  
+A modern habit and lifestyle tracking application that allows users to:
+- Track daily workouts and exercises  
+- Analyse food choices in real-time  
+- Receive AI-based suggestions for better health  
+- Generate weekly performance reports  
+- Automatically send reports to the user’s email  
+
+Designed for consistency, motivation, and long-term improvement.
+
+---
+
+### 💰 **Personal Finance Tracker**  
+A simple and powerful tool for managing everyday finances.  
+Features include:
+- Track loan progress and calculate EMIs  
+- Add daily expenses and incomes  
+- Get monthly summaries  
+- Visual breakdown of spending  
+- Helps plan budgets and reduce debt  
+
+Made to help users stay financially organised and in control.
+
+---
+
+## 📫 Contact Me  
 <p>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/malbroo96"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akhil-joseph225292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+**Email:** akhiljoseph225292@gmail.com  
+**Mobile:** 8129015022  
 
 ---
 
